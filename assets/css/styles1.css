@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://thuthuat123.com/uploads/2018/03/23/hinh-nen-dep-powerpoint-1_082903321.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.login-form {
+    width: 300px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.login-form h1 {
+    text-align: center;
+    color: #1a1c1a;
+    font-size: 24px;
+    padding: 20px 0 20px 0;
+}
+.login-form input[type="text"],
+        .login-form input[type="password"] {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            box-sizing: border-box;
+
+            /* Thêm thuộc tính background-color để đổi màu cho ô đăng nhập */
+            background-color: lightblue;
+        }
+.login-form button {
+    background-color: #0feb16;
+    color: rgb(10, 5, 5);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: 1px solid #110b0b;
+    cursor: pointer;
+    width: 100%;
+}
+.login-form button:hover {
+    opacity: 0.8;
+}
+.login-form .cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+}
+.container {
+    padding: 16px;
+}
+span.psw {
+    float: right;
+    padding-top: 16px;
+}
+@media screen and (max-width: 300px) {
+    span.psw {
+        display:block;
+        float:none
+     }
+     .cancelbtn {
+        width:100%
+     }
+ }
+ .hidden-content{
+     display:none
+ }
+
+ /* Thêm thuộc tính text-align:center vào thẻ h2 */
+ h1 {
+     text-align:center
+ }
+
+  /* Định vị nút đăng xuất ở phía trên góc trái */
+  #logout-btn {
+    position:absolute
+    top:10px
+    left:10px
+}
