@@ -18,7 +18,7 @@ document.getElementById("loginForm").addEventListener("submit", function(event){
         window.location.href = "https://docs.google.com/document/d/1jU0M1PPbR-b5hMyBGOmGmRCsjNO6YbXrr15AeA2rXRM/edit?usp=sharing"
     }
     else
-    if (username === "17022004" && password === "17022004") {
+    if (username === "17022004" && password === "17122004") {
         window.location.href = "https://docs.google.com/document/d/1aD0iCbzOjMpN-a06tPSFd86T9LW17DOU0F7mVjH-VHc/edit?usp=sharing"
     }
     else
