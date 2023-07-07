@@ -105,6 +105,60 @@ const loginForm = document.querySelector('.login-form');
             hiddenContent.style.display = 'block';
             
         }
+        else
+        if (username === 'giahuy' && password === 'giahuy7506') {
+            alert('Xin chào Gia Huy. Cảm ơn bạn đã đăng nhập với tư cách là thành viên. Để tiếp tục hãy bấm "OK" ');
+            
+            loginForm.style.display = 'none';
+            
+            hiddenContent.style.display = 'block';
+            
+        }
+        else
+        if (username === 'khanhduy' && password === 'khanhduy4509') {
+            alert('Xin chào Khánh Duy. Cảm ơn bạn đã đăng nhập với tư cách là thành viên. Để tiếp tục hãy bấm "OK" ');
+            
+            loginForm.style.display = 'none';
+            
+            hiddenContent.style.display = 'block';
+            
+        }
+        else
+        if (username === 'phuocduy' && password === 'phuocduy0905') {
+            alert('Xin chào Phước Duy. Cảm ơn bạn đã đăng nhập với tư cách là thành viên. Để tiếp tục hãy bấm "OK" ');
+            
+            loginForm.style.display = 'none';
+            
+            hiddenContent.style.display = 'block';
+            
+        }
+        else
+        if (username === 'minhkhang' && password === 'minhkhang0816') {
+            alert('Xin chào Minh Khang. Cảm ơn bạn đã đăng nhập với tư cách là thành viên. Để tiếp tục hãy bấm "OK" ');
+            
+            loginForm.style.display = 'none';
+            
+            hiddenContent.style.display = 'block';
+            
+        }
+        else
+        if (username === 'minhquan' && password === 'minhquan0561') {
+            alert('Xin chào Khánh Duy. Cảm ơn bạn đã đăng nhập với tư cách là thành viên. Để tiếp tục hãy bấm "OK" ');
+            
+            loginForm.style.display = 'none';
+            
+            hiddenContent.style.display = 'block';
+            
+        }
+        else
+        if (username === 'huunha' && password === 'huunha7893') {
+            alert('Xin chào Hữu Nhã. Cảm ơn bạn đã đăng nhập với tư cách là thành viên. Để tiếp tục hãy bấm "OK" ');
+            
+            loginForm.style.display = 'none';
+            
+            hiddenContent.style.display = 'block';
+            
+        }
         else {
             
             alert('Tên người dùng hoặc mật khẩu không chính xác!');
