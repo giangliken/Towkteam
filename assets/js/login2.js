@@ -10,8 +10,8 @@ document.getElementById("loginForm").addEventListener("submit", function(event){
         window.location.href = "https://docs.google.com/document/d/1ncTx2BISaoBvxQxaSu9BSKzVt3g0JX3U4-a-DhXSNws/edit?usp=sharing"
     }
     else 
-    if (username === "28022004" && password === "28022004") {   //Trung Tin
-        window.location.href = "https://docs.google.com/document/d/170Ry5zA3sSOyu6lOsGk1kIrcG_Bauy_e1tyoBug2QxE/edit?usp=sharing"
+    if (username === "10072004" && password === "10072004") {   //Xuan Nguyen
+        window.location.href = "https://docs.google.com/document/d/1xLl-VVC0pUABgnB3sXKhPB67zPbehvVZ5ZxvN9zJvgY/edit?usp=sharing"
     }
     else 
     if (username === "21012004" && password === "21012004") {   //Manh Phi
