@@ -25,8 +25,8 @@ const loginForm = document.querySelector('.login-form');
             
         }
         else
-        if (username === 'trungtin' && password === 'trungtin3265') {
-            alert('Xin chào Trung Tín. Cảm ơn bạn đã đăng nhập với tư cách là thành viên. Để tiếp tục hãy bấm "OK" ');
+        if (username === 'xuannguyen' && password === 'xuannguyen2109') {
+            alert('Xin chào Xuân Nguyên. Cảm ơn bạn đã đăng nhập với tư cách là thành viên. Để tiếp tục hãy bấm "OK" ');
             
             loginForm.style.display = 'none';
             
